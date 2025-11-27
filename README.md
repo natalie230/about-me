@@ -1,6 +1,6 @@
 # Hello!👋
 
-This is my first app about me - excluding blogs from primary school era hahaha  
+This is my first webapp about me - excluding blogs  
 
 Give it a visit! ⬇️
 
